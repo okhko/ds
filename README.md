@@ -1,5 +1,9 @@
 # Data Science Plus - проект Яндекс.Практикум
-Репозиторий с моими проектами программы курсов Яндекс.Практикум по направлению Data Science.
+
+## Диплом о профессиональной переподготовке по программе "Специалист по Data Science плюс" [ENG](https://github.com/okhko/ds/blob/main/%D0%A1ertificate_ENG_Okhrymenko_2024-4858-003.pdf) / [RUS](https://github.com/okhko/ds/blob/main/%D0%A1ertificate_RUS_Okhrymenko_2024-4858-003.pdf)
+
+
+Репозиторий с моими проектами программы курсов Яндекс.Практикум по направлению Data Science плюс.
 
 |No |Проект            |Описание                                      |Инструменты
 |---                   |---                       |---                |---
