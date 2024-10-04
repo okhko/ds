@@ -14,8 +14,9 @@
 
 ---
 <div align="center">
-**Диплом о профессиональной переподготовке**: [ENG](https://github.com/okhko/ds/blob/main/%D0%A1ertificate_ENG_Okhrymenko_2024-4858-003.pdf) / [RUS](https://github.com/okhko/ds/blob/main/%D0%A1ertificate_RUS_Okhrymenko_2024-4858-003.pdf)
-</div>
+**Диплом о профессиональной переподготовке**:</div> 
+  [ENG](https://github.com/okhko/ds/blob/main/%D0%A1ertificate_ENG_Okhrymenko_2024-4858-003.pdf) / [RUS](https://github.com/okhko/ds/blob/main/%D0%A1ertificate_RUS_Okhrymenko_2024-4858-003.pdf)
+
 ---
 
 | No | Проект | Описание | Инструменты |
